@@ -11,10 +11,10 @@
 -   I believe Open-Source is the future of software
 -  ⚡ Fun Fact: I run my Plex server on a Raspberry Pi
 
----
+<br />
+<br />
 
-<br />
-<br />
+---
 
 ### Languages and Tools:
 
