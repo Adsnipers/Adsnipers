@@ -37,3 +37,7 @@
 - [Running 24/7 bots with a Raspberry Pi](https://medium.com/sniperbot/running-24-7-chat-bots-with-a-raspberry-pi-is-it-a-good-idea-8347d7069a2e?source=rss-c2cd43df0de9------2)
 - [My life as Self-Employed Developer](https://medium.com/sniperbot/my-life-as-self-employed-developer-70d0d89453fc?source=rss-c2cd43df0de9------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adsnipers)](https://github.com/anuraghazra/github-readme-stats)
