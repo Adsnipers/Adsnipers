@@ -3,7 +3,13 @@
 [![Website](https://img.shields.io/website?label=adsnipers.me&style=for-the-badge&url=https%3A%2F%2Fadsnipers.me)](https://adsnipers.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdsnipersTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Full-Time student and Part-Time caffiene addict
+## I'm a Full-Time student, Developer and Part-Time caffiene addict
+
+-   I'm working on a Linkedin style platform for developers!
+-   I've created an AI moderation bot for Discord and Twitch chats
+-   I'm Looking to collaborate with like-minded people
+-   I believe Open-Source is the future of software
+-  ⚡ Fun Fact: I run my Plex server on a Raspberry Pi
 
 <br />
 <br />
